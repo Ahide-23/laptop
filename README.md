@@ -1,2 +1,2 @@
 # laptop
-laptop
+Laptop
